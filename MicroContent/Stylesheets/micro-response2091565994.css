@@ -1,0 +1,1236 @@
+/*<meta />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+.micro-response2091565994
+{
+	color: #242729;
+	font-family: 'Roboto Light', Arial, Avenir, Myriad;
+	font-size: 1em;
+	line-height: 1.7em;
+}
+
+.micro-response2091565994 a
+{
+	color: #2d82dc;
+}
+
+.micro-response2091565994 a:link
+{
+	color: #2d82dc;
+}
+
+.micro-response2091565994 a:visited
+{
+	color: #2d82dc;
+}
+
+.micro-response2091565994 a:hover
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 ul.menu._Skins_SideMenu.mc-component li > a:hover
+{
+	background-color: #058a95;
+	border-radius: 5px;
+}
+
+.micro-response2091565994 ul.menu._Skins_SideMenu.mc-component ul > li > a:hover
+{
+	background-color: #058a95;
+	border-radius: 5px;
+}
+
+.micro-response2091565994 ul.menu._Skins_SideMenu.mc-component ul ul > li > a:hover
+{
+	background-color: #058a95;
+	border-radius: 5px;
+}
+
+.micro-response2091565994 ul.menu._Skins_SideMenu.mc-component ul ul ul > li > a:hover
+{
+	background-color: #058a95;
+	border-radius: 5px;
+}
+
+.micro-response2091565994 ul.menu._Skins_SideMenu.mc-component ul ul ul ul > li > a:hover
+{
+	background-color: #058a95;
+	border-radius: 5px;
+}
+
+.micro-response2091565994 a.MCBreadcrumbsLink
+{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.micro-response2091565994 a.MCBreadcrumbsLink:visited
+{
+	color: #000000;
+}
+
+.micro-response2091565994 a.MCBreadcrumbsLink:hover
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 a.MCBreadcrumbsLink:hover
+{
+	color: #000000;
+}
+
+.micro-response2091565994 div.example
+{
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	border: solid 2px #5308BE;
+	padding: 20px 40px 10px;
+	line-height: 20pt;
+	letter-spacing: .25;
+	background-image: url('../../Content/Resources/Images/Icon-Example.png');
+	margin: 20px 10px 20px 0;
+	background-position: 10px 23px;
+}
+
+.micro-response2091565994 div.note
+{
+	background-color: #ffffff;
+	background-repeat: no-repeat;
+	border: solid 2px #FDC80B;
+	line-height: 20pt;
+	padding-left: 40px;
+	padding-right: 10px;
+	margin: 20px 10px 20px 0;
+	letter-spacing: .25;
+	background-image: url('../../Content/Resources/Images/Icon-Note.png');
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background-position: 10px 25px;
+}
+
+.micro-response2091565994 div.GlossaryPageDefinition
+{
+	
+}
+
+.micro-response2091565994 div.GlossaryPageHeading
+{
+	
+}
+
+.micro-response2091565994 div.GlossaryPageTerm
+{
+	
+}
+
+.micro-response2091565994 div.ImagesFloatLeft
+{
+	clear: both;
+	float: left;
+	margin-right: 10px;
+	padding: 5px;
+}
+
+.micro-response2091565994 div.ImagesFloatRight
+{
+	clear: both;
+	float: right;
+	margin-left: 10px;
+	padding: 5px;
+}
+
+.micro-response2091565994 span.Admonition
+{
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.micro-response2091565994 .noteInDiv
+{
+	mc-auto-number-format: '{b}{color #FDC80B}Note: {/color}{/b}';
+	mc-auto-number-class: Admonition;
+}
+
+.micro-response2091565994 div.quotation
+{
+	background-color: #e1e1e1;
+	background-image: url('../../Content/Resources/Images/QuotationMark.png');
+	background-repeat: no-repeat;
+	background-position: top left;
+	border-color: #b3b3b3;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 6px;
+	font-family: 'Century Gothic';
+	font-size: 0.9em;
+	font-style: italic;
+	font-weight: normal;
+	line-height: 18px;
+	padding: 20px;
+	padding-left: 40px;
+}
+
+.micro-response2091565994 div.sideContent
+{
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	width: 33.33%;
+}
+
+.micro-response2091565994 div.TightContent
+{
+	margin: 0;
+	padding: 0;
+	line-height: 1em;
+}
+
+.micro-response2091565994 h1
+{
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	padding-bottom: 10px;
+	margin-top: 30px;
+	color: #242729;
+}
+
+.micro-response2091565994 h1.Appendix
+{
+	
+}
+
+.micro-response2091565994 h1.UserGuideBHeading
+{
+	
+}
+
+.micro-response2091565994 h2
+{
+	font-size: 1.3em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 20px;
+}
+
+.micro-response2091565994 h3
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 16px;
+}
+
+.micro-response2091565994 img
+{
+	border: none;
+}
+
+.micro-response2091565994 img.AbsolutePosition
+{
+	padding: 5px;
+}
+
+.micro-response2091565994 img.ReduceButtonSize
+{
+	max-height: 25px;
+}
+
+.micro-response2091565994 img.Thumbnail
+{
+	mc-thumbnail: popup;
+}
+
+.micro-response2091565994 p.ChapterNumber
+{
+	mc-auto-number-format: 'CH:CHAPTER {chapnum}';
+	mc-auto-number-position: inside-head;
+	font-family: 'Roboto Black';
+	letter-spacing: 1;
+	font-size: 15pt;
+	line-height: 20pt;
+	color: #058a95;
+	padding: 0px 0px 0px -8px;
+}
+
+.micro-response2091565994 li
+{
+	orphans: 2;
+	widows: 2;
+	line-height: 20pt;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.micro-response2091565994 ol
+{
+	line-height: 20pt;
+	font-size: 12pt;
+	letter-spacing: .25;
+}
+
+.micro-response2091565994 ol ol
+{
+	line-height: 20pt;
+}
+
+.micro-response2091565994 ol.LowerAlpha
+{
+	list-style-type: lower-alpha;
+}
+
+.micro-response2091565994 ol.LowerRoman
+{
+	list-style-type: lower-roman;
+}
+
+.micro-response2091565994 ol ul
+{
+	list-style-type: square;
+}
+
+.micro-response2091565994 ol ul ul
+{
+	list-style-type: disc;
+	margin-left: 20px;
+}
+
+.micro-response2091565994 ol ul ul ul
+{
+	list-style-type: circle;
+}
+
+.micro-response2091565994 ul
+{
+	font-size: 14pt;
+	list-style-type: square;
+	line-height: 20pt;
+	letter-spacing: .25;
+}
+
+.micro-response2091565994 ul ul
+{
+	list-style-type: disc;
+}
+
+.micro-response2091565994 ul ul ul
+{
+	list-style-type: circle;
+}
+
+.micro-response2091565994 ul ul ul ul
+{
+	list-style-type: disc;
+}
+
+.micro-response2091565994 ul p
+{
+	font-size: 14pt;
+	line-height: 20pt;
+	letter-spacing: .25;
+}
+
+.micro-response2091565994 MadCap|breadcrumbsProxy
+{
+	border-bottom: none;
+	font-size: .7em;
+	font-style: italic;
+	mc-breadcrumbs-prefix: 'You are here: ';
+}
+
+.micro-response2091565994 MadCap|popup
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 MadCap|popup:focus
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 MadCap|popup:hover
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 MadCap|popupHead
+{
+	color: #058a95;
+	font-weight: bold;
+}
+
+.micro-response2091565994 MadCap|tocProxy
+{
+	border: none;
+}
+
+.micro-response2091565994 MadCap|xref
+{
+	color: #058a95;
+	font-weight: bold;
+	mc-format: '{para}';
+	text-decoration: underline;
+}
+
+.micro-response2091565994 MadCap|xref:hover
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 MadCap|xref.IndexPageNumber
+{
+	
+}
+
+.micro-response2091565994 MadCap|breadcrumbsProxy
+{
+	border-bottom: none;
+	font-size: 1.2em;
+}
+
+.micro-response2091565994 MadCap|xref
+{
+	color: #058a95;
+	font-weight: bold;
+	mc-format: '{para}';
+	text-decoration: underline;
+}
+
+.micro-response2091565994 MadCap|xref:hover
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 MadCap|dropDownHotspot
+{
+	color: #058a95;
+}
+
+.micro-response2091565994 MadCap|dropDownBody
+{
+	border-bottom: 1px solid #d3d3d3;
+}
+
+.micro-response2091565994 MadCap|dropDown	/*Change the "mc-open-image" and "mc-closed-image" properties to change the icons used in drop-downs*/
+{
+	mc-open-image: url('../../Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png');
+	mc-closed-image: url('../../Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png');
+}
+
+/*==Master Page Topic Layout==*/
+
+.micro-response2091565994 nav.title-bar	/*Adds bottom border on top navigation bar*/
+{
+	border-bottom: 1px solid #d3d3d3;
+}
+
+.micro-response2091565994 div.top-bar	/*Contains the breadcrumbs and toolbar*/
+{
+	min-height: 50px;
+	/*Min-height is necessary for topics that are not included in a TOC*/
+}
+
+.micro-response2091565994 div.search-container
+{
+	float: right;
+	max-width: 25%;
+}
+
+/*==Elements for the left side of Master Page layout==*/
+
+.micro-response2091565994 div.side-menu	/*This is the div that the menu proxy is contained in*/
+{
+	padding-left: 10px;
+	margin-top: 15px;
+}
+
+/*Styles that provide the border radius to the menu proxy items*/
+
+.micro-response2091565994 ul.menu._Skins_SideMenu.mc-component li > a.selected
+{
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-radius: 5px;
+}
+
+.micro-response2091565994 div.topic-layout	/*This layout was created using the Responsive Layout Editor in MadCap Flare. Go to: Home Ribbon > Styles Section > Responsive Layout*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.micro-response2091565994 div.topic-layout::before
+{
+	content: ' ';
+	display: table;
+}
+
+.micro-response2091565994 div.topic-layout::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+.micro-response2091565994 div.topic-layout > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.micro-response2091565994 div.topic-layout > div:nth-child(1)	/*Menu Proxy container*/
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+.micro-response2091565994 div.topic-layout > div:nth-child(2)
+{
+	width: 73%;
+	margin-left: 2%;
+}
+
+.micro-response2091565994 p
+{
+	line-height: 20pt;
+	font-size: 12pt;
+	letter-spacing: .25;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.micro-response2091565994 p.CompanyInformation1
+{
+	margin-bottom: 4px;
+	margin-top: 14px;
+	font-weight: bold;
+}
+
+.micro-response2091565994 p.CompanyInformation2
+{
+	color: #6d6d6d;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.micro-response2091565994 p.Copyright
+{
+	
+}
+
+.micro-response2091565994 p.CopyrightAddress
+{
+	
+}
+
+.micro-response2091565994 p.CopyrightHeading
+{
+	
+}
+
+.micro-response2091565994 p.CreatedUsingFlare
+{
+	
+}
+
+.micro-response2091565994 p.EmptyPageText
+{
+	
+}
+
+.micro-response2091565994 p.ExampleHeadText
+{
+	font-weight: bold;
+	page-break-after: avoid;
+	letter-spacing: 5px;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+.micro-response2091565994 p.Figure
+{
+	
+}
+
+.micro-response2091565994 p.FirstPageOfChapter
+{
+	
+}
+
+.micro-response2091565994 p.FrameFooterText
+{
+	
+}
+
+.micro-response2091565994 p.FrameFooterText2
+{
+	
+}
+
+.micro-response2091565994 p.GlossaryPrintHead
+{
+	font-family: 'Roboto Black';
+	letter-spacing: 1;
+	font-size: 15pt;
+	line-height: 20pt;
+	color: #058a95;
+	padding: 0px 0px 0px -8px;
+	text-transform: uppercase;
+}
+
+.micro-response2091565994 p.IndexHeading
+{
+	
+}
+
+.micro-response2091565994 p.IndexPrintHead
+{
+	
+}
+
+.micro-response2091565994 p.ManualTitle1
+{
+	font-family: 'Roboto';
+	font-size: 15pt;
+	line-height: 20pt;
+	padding-bottom: 15pt;
+	letter-spacing: 1;
+	padding-top: 1.5in;
+}
+
+.micro-response2091565994 p.ManualTitle2
+{
+	font-size: 45pt;
+	line-height: 50pt;
+	mc-hyphenate: never;
+}
+
+.micro-response2091565994 p.ManualTitleType
+{
+	font-family: 'Roboto Black';
+	font-size: 15pt;
+	line-height: 20pt;
+	text-align: right;
+	text-transform: uppercase;
+	padding-bottom: .5in;
+	vertical-align: 30px;
+	padding-top: 15px;
+}
+
+.micro-response2091565994 p.ManualVersionNumber
+{
+	color: #ffffff;
+	font-size: 13pt;
+}
+
+.micro-response2091565994 p.MiniTOC1
+{
+	
+}
+
+.micro-response2091565994 p.TableCaption
+{
+	
+}
+
+.micro-response2091565994 p.TOCHeading
+{
+	font-family: 'Roboto Black';
+	letter-spacing: 1;
+	font-size: 15pt;
+	line-height: 20pt;
+	color: #058a95;
+	padding: 0px 0px 0px -8px;
+}
+
+.micro-response2091565994 span.Emphasis
+{
+	font-weight: bold;
+}
+
+.micro-response2091565994 span.FigureNum
+{
+	
+}
+
+.micro-response2091565994 span.SetOffFirstLevel
+{
+	color: #006b74;
+	font-weight: bold;
+}
+
+.micro-response2091565994 span.SetOffSecondLevel
+{
+	color: #445879;
+	font-weight: bold;
+}
+
+.micro-response2091565994 span.TableNum
+{
+	
+}
+
+.micro-response2091565994 td
+{
+	margin: 8px;
+	vertical-align: top;
+}
+
+.micro-response2091565994 th
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+.micro-response2091565994 tr
+{
+	
+}
+
+.micro-response2091565994 html.templateTopic div.sideContent
+{
+	display: none;
+}
+
+.micro-response2091565994 div.ContentRow
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.micro-response2091565994 div.ContentRow::before
+{
+	content: ' ';
+	display: table;
+}
+
+.micro-response2091565994 div.ContentRow::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+.micro-response2091565994 div.ContentRow > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.micro-response2091565994 div.ContentRow > div:nth-child(1)
+{
+	width: 58.333%;
+	margin-left: 0%;
+}
+
+.micro-response2091565994 div.ContentRow > div:nth-child(2)
+{
+	width: 33.333%;
+	margin-left: 8.3333%;
+}
+
+.micro-response2091565994 div.Logo-menu1	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.micro-response2091565994 div.Logo-menu1::before
+{
+	content: ' ';
+	display: table;
+}
+
+.micro-response2091565994 div.Logo-menu1::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+.micro-response2091565994 div.Logo-menu1 > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.micro-response2091565994 div.Logo-menu1 > div:nth-child(1)
+{
+	width: 50%;
+	margin-left: 0%;
+}
+
+.micro-response2091565994 div.Logo-menu1 > div:nth-child(2)
+{
+	width: 50%;
+	margin-left: 0%;
+}
+
+@media print
+{
+	.micro-response2091565994
+	{
+		margin: 8px;
+		font-size: 13pt;
+		line-height: normal;
+	}
+
+	/* Cross-References*/
+
+	.micro-response2091565994 MadCap|xref
+	{
+		color: #242729;
+		font-weight: normal;
+		mc-format: '{quote}{para}{quote} {pageref}';
+		text-decoration: none;
+	}
+
+	.micro-response2091565994 MadCap|xref.IndexPageNumber
+	{
+		
+	}
+
+	/* Drop-Downs*/
+
+	.micro-response2091565994 MadCap|dropDown
+	{
+		margin: 0;
+		padding: 0;
+		margin-top: 16px;
+		border-bottom: none 2px #000000;
+	}
+
+	.micro-response2091565994 MadCap|dropDown.FourthLevel
+	{
+		background-color: transparent;
+		margin-left: 0px;
+		margin-top: 6px;
+	}
+
+	.micro-response2091565994 MadCap|dropDown.SecondLevel
+	{
+		background-color: transparent;
+		margin-left: 0px;
+		margin-top: 6px;
+	}
+
+	.micro-response2091565994 MadCap|dropDown.ThirdLevel
+	{
+		background-color: transparent;
+		margin-left: 0px;
+		margin-top: 6px;
+	}
+
+	.micro-response2091565994 MadCap|dropDownBody
+	{
+		border-bottom: none;
+	}
+
+	.micro-response2091565994 MadCap|dropDownHead
+	{
+		font-size: 12pt;
+		padding: 5px 5px 5px 0px;
+		margin-top: 0px;
+	}
+
+	.micro-response2091565994 MadCap|dropDownHotspot
+	{
+		
+	}
+
+	/* Footnotes*/
+
+	.micro-response2091565994 MadCap|footnoteBlock
+	{
+		font-size: 9pt;
+	}
+
+	.micro-response2091565994 MadCap|footnotesBlock
+	{
+		border-top-color: #058a95;
+	}
+
+	/* Glossaries*/
+
+	.micro-response2091565994 div.GlossaryPageDefinition
+	{
+		color: #242729;
+		font-size: 13pt;
+	}
+
+	.micro-response2091565994 div.GlossaryPageHeading
+	{
+		border-bottom-color: #058a95;
+		border-bottom-style: solid;
+		border-bottom-width: 1px;
+		color: #058a95;
+		font-size: 13pt;
+	}
+
+	.micro-response2091565994 div.GlossaryPageTerm
+	{
+		color: #242729;
+		font-size: 12pt;
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+
+	.micro-response2091565994 MadCap|glossaryProxy
+	{
+		border-top: none;
+		color: #ffffff;
+	}
+
+	/* Headings*/
+
+	.micro-response2091565994 h1
+	{
+		color: #058a95;
+		font-family: Roboto;
+		font-size: 35pt;
+		line-height: 40pt;
+		page-break-before: avoid;
+		padding-bottom: 0px;
+	}
+
+	.micro-response2091565994 h1.SingleChapter
+	{
+		background-color: transparent;
+		border-bottom: none;
+		font-size: 22pt;
+		line-height: 24pt;
+		margin-bottom: 20px;
+		margin-left: 0;
+		mc-auto-number-class: ;
+		padding-left: 0px;
+		padding-top: 0px;
+		mc-auto-number-format: '{ }';
+		mc-auto-number-position: inside-tail;
+	}
+
+	.micro-response2091565994 h2
+	{
+		page-break-before: always;
+		font-family: Roboto;
+		font-size: 25pt;
+		line-height: 30pt;
+	}
+
+	.micro-response2091565994 h3
+	{
+		mc-heading-level: 0;
+		font-size: 19pt;
+		font-family: Roboto;
+	}
+
+	.micro-response2091565994 h3.PageBreakBefore
+	{
+		page-break-before: always;
+	}
+
+	.micro-response2091565994 h4
+	{
+		font-family: Roboto;
+		font-size: 15pt;
+		line-height: 18pt;
+	}
+
+	.micro-response2091565994 h5
+	{
+		font-weight: normal;
+		mc-heading-level: 0;
+	}
+
+	/* Images*/
+	/* Indexes*/
+
+	.micro-response2091565994 MadCap|indexProxy
+	{
+		border-top: none;
+	}
+
+	.micro-response2091565994 MadCap|indexProxy.Column2
+	{
+		mc-column-count: 2;
+		mc-index-headings: true;
+	}
+
+	.micro-response2091565994 p.IndexHeading
+	{
+		font-size: 13pt;
+		padding-top: 16px;
+		text-align: left;
+	}
+
+	.micro-response2091565994 p.IndexPrintHead
+	{
+		font-family: 'Roboto Black';
+		letter-spacing: 1;
+		font-size: 15pt;
+		line-height: 20pt;
+		color: #058a95;
+		text-transform: uppercase;
+		padding: 0px 0px 0px -8px;
+	}
+
+	.micro-response2091565994 p.Index1
+	{
+		margin-bottom: 4px;
+		margin-top: 4px;
+	}
+
+	.micro-response2091565994 p.Index2
+	{
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+
+	/* Lists*/
+
+	.micro-response2091565994 li
+	{
+		orphans: 2;
+		widows: 2;
+		line-height: 15pt;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.micro-response2091565994 li.PageBreakBefore
+	{
+		font-size: 10pt;
+		page-break-before: always;
+		margin-top: 18pt;
+		mc-printer-page-margin-top: 18pt;
+	}
+
+	.micro-response2091565994 ol
+	{
+		line-height: 15pt;
+		font-size: 13pt;
+	}
+
+	.micro-response2091565994 ol ol
+	{
+		line-height: 17pt;
+	}
+
+	.micro-response2091565994 ol p
+	{
+		font-size: 13pt;
+		line-height: 15pt;
+	}
+
+	.micro-response2091565994 ol.LowerAlpha
+	{
+		margin-left: 30px;
+	}
+
+	.micro-response2091565994 ol.LowerRoman
+	{
+		margin-left: 30px;
+	}
+
+	.micro-response2091565994 ul
+	{
+		font-size: 13pt;
+		line-height: 15pt;
+	}
+
+	.micro-response2091565994 ul p
+	{
+		line-height: 15pt;
+		font-size: 13pt;
+	}
+
+	.micro-response2091565994 ul.FirstLevel
+	{
+		margin-left: 30px;
+	}
+
+	.micro-response2091565994 ul.SecondLevel
+	{
+		margin-left: 30px;
+	}
+
+	.micro-response2091565994 ul.ThirdLevel
+	{
+		margin-left: 30px;
+	}
+
+	/* Notes*/
+
+	.micro-response2091565994 div.note
+	{
+		font-size: 13pt;
+		line-height: 15pt;
+		background-image: url('../../Content/Resources/Images/icon-note-300dpi.jpg');
+		margin: 10px 0px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background-position: 10px 22px;
+	}
+
+	.micro-response2091565994 p.note
+	{
+		font-size: 13pt;
+		line-height: 15pt;
+		background-image: url('../../Content/Resources/Images/icon-note-300dpi.jpg');
+		margin: 10px 0px;
+		padding-bottom: 20px;
+		padding-top: 20px;
+		background-position: 10px 22px;
+	}
+
+	/* Examples*/
+
+	.micro-response2091565994 div.example
+	{
+		background-color: #FFFFFF;
+		background-repeat: no-repeat;
+		border: solid 2px #5308BE;
+		padding: 20px 40px 10px;
+		line-height: 20pt;
+		letter-spacing: .25;
+		background-image: url('../../Content/Resources/Images/Icon-Example-300dpi.jpg');
+		margin: 20px 10px 20px 0;
+		background-position: 10px 23px;
+	}
+
+	/* Page and Frame Breaks*/
+
+	.micro-response2091565994 p.PageBreakAfter
+	{
+		page-break-after: always;
+	}
+
+	.micro-response2091565994 p.PageBreakBefore
+	{
+		margin-top: 18px;
+		page-break-before: always;
+	}
+
+	/* Paragraphs*/
+
+	.micro-response2091565994 p
+	{
+		orphans: 2;
+		widows: 2;
+		line-height: 14pt;
+		font-size: 13pt;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.micro-response2091565994 td
+	{
+		font-size: 10pt;
+	}
+
+	.micro-response2091565994 th
+	{
+		font-size: 12pt;
+	}
+
+	.micro-response2091565994 tr
+	{
+		page-break-inside: avoid;
+	}
+}
+
+@media only screen and (max-width: 1279px)
+{
+	.micro-response2091565994 .row.nav-search
+	{
+		display: block;
+	}
+
+	.micro-response2091565994 div.search-container
+	{
+		display: none;
+	}
+
+	.micro-response2091565994 div.topic-layout > div:nth-child(1)
+	{
+		display: none;
+	}
+
+	.micro-response2091565994 div.topic-layout > div:nth-child(2)
+	{
+		width: 98%;
+		margin-left: 2%;
+	}
+
+	.micro-response2091565994 div.Logo-menu1 > div:nth-child(1)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	.micro-response2091565994 div.Logo-menu1 > div:nth-child(2)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+}
+
+@media only screen and (max-width: 767px)
+{
+	.micro-response2091565994 div.top-bar
+	{
+		min-height: 0;
+	}
+
+	.micro-response2091565994 .row.nav-search
+	{
+		display: block;
+	}
+
+	.micro-response2091565994 div.search-container
+	{
+		display: none;
+	}
+
+	.micro-response2091565994 div.topic-layout > div:nth-child(1)
+	{
+		display: none;
+	}
+
+	.micro-response2091565994 div.topic-layout > div:nth-child(2)
+	{
+		width: 98%;
+		margin-left: 2%;
+	}
+
+	.micro-response2091565994 div.Logo-menu1 > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	.micro-response2091565994 div.Logo-menu1 > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+}
+
+.micro-response2091565994 p.microcontentheading
+{
+	line-height: 20pt;
+	letter-spacing: .25;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 18pt;
+	font-weight: bold;
+}
+
